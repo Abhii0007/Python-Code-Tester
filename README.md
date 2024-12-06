@@ -3,6 +3,8 @@ Clipboard Python Runner
 
 
 
+![app snap](screenshot.png)
+
 Overview:-
 
 	The Clipboard Python Runner is a simple utility program designed to execute Python code snippets directly from your
